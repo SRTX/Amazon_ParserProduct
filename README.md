@@ -1,6 +1,6 @@
 # Amazon_ParserProduct
 
-Download file sales.py
+Download file sales.py.
 sales.py - файл для скачивания.
 
 
