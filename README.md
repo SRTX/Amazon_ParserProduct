@@ -1,7 +1,6 @@
 # Amazon_ParserProduct
 
 Download file sales.py.
-sales.py - файл для скачивания.
 
 
 В head - добавлять свои браузер данные.
